@@ -1,0 +1,6 @@
+git init //tạo một repo cho máy 
+
+git add //thêm 1 hoặc nhiều file vào staging area
+git add . //thêm toàn bộ file vào staging area
+
+git commit //
